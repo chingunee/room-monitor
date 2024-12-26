@@ -17,8 +17,8 @@ npm run dev
 ```
 
 Веб бровсер дээрээ [http://localhost:3000](http://localhost:3000) нээх.
+## Системийн бүтцийн архитектур
 
-Системийн бүтцийн архитектур
 <img width="213" alt="image" src="https://github.com/user-attachments/assets/3a429c9c-2117-425c-8a34-9f8ef4c6aa6a" />
 
 
